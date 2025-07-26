@@ -61,9 +61,9 @@ Examples:
 
 SQL scripts are organized in the [`sql/`](./sql) folder:
 
-- `create_tables.sql` – Creating tables for raw data
+- `tables.sql` – Creating tables for raw data
 - `data_check.sql` – Checking for nulls and duplicates
-- `analysis_queries.sql` – All analysis queries used to answer business questions
+- `analysis.sql` – All analysis queries used to answer business questions
 
 ---
 
